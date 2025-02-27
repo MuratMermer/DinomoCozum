@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\cozum8.props" />
+</Project>
